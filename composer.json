@@ -1,6 +1,6 @@
 {
-    "name": "safaricom/mpesa",
-    "description": "safaricom mpesa sdk for laravel framework",
+    "name": "mpesa/laravel-sdk",
+    "description": "safaricom mpesa laravel sdk",
     "type": "library",
     "license": "MIT",
     "authors": [
