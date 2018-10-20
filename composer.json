@@ -1,0 +1,14 @@
+{
+    "name": "safaricom/mpesa",
+    "description": "safaricom mpesa sdk for laravel framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fredrick",
+            "email": "fjomo@safaricom.co.ke"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
